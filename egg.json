@@ -1,0 +1,10 @@
+{
+  "name": "computed_types",
+  "description": "🦩 Joi like validations for TypeScript",
+  "homepage": "https://github.com/neuledge/computed-types",
+  "files": [
+    "./**/*.ts",
+    "README.md"
+  ],
+  "entry": "./mod.ts"
+}
